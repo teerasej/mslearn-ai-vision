@@ -59,6 +59,7 @@ In this exercise, you'll complete a partially implemented client application tha
     
     ```
     pip install azure-ai-vision-imageanalysis==1.0.0b3
+    pip install python-dotenv
     ```
 
     > **Tip**: If you are doing this lab on your own machine, you'll also need to install `matplotlib` and `pillow`.
